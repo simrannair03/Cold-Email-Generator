@@ -15,7 +15,7 @@ from bs4 import BeautifulSoup
 try:
     llm = ChatGroq(
         temperature=0,
-        groq_api_key='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',
+        groq_api_key='ENTER GROQ API KEY',
         model_name="llama3-70b-8192"
     )
 except Exception as e:
