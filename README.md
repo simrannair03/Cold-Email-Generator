@@ -47,7 +47,7 @@ This project is an intelligent, LLM-powered Streamlit app that helps you generat
    ```bash
    git clone https://github.com/yourusername/cold-email-generator.git
    cd cold-email-generator
-````
+   ```
 
 2. **Install dependencies**
 
