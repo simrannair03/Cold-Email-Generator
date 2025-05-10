@@ -125,3 +125,7 @@ Install with:
 ```bash
 pip install -r requirements.txt
 ```
+---
+
+## Output Screenshot
+![Screenshot 2025-05-10 014841](https://github.com/user-attachments/assets/8f8ab83d-b649-470f-8450-138d15e156d2)
