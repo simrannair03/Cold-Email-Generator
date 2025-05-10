@@ -1,4 +1,3 @@
-```markdown
 # 📧 Cold Email Generator using Generative AI
 
 This project is an intelligent, LLM-powered Streamlit app that helps you generate professional, personalized cold emails for job postings by extracting job metadata and matching it to relevant items in your tech portfolio. It utilizes Groq’s **LLaMA3-70B** via LangChain and includes ChromaDB-based vector search for portfolio matching.
